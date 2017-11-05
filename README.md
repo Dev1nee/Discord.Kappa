@@ -1,5 +1,5 @@
 # Discord.Kappa
-Its Soooo Pure
+...
 
 ## Example
 ```javascript
