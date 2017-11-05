@@ -1,0 +1,27 @@
+{
+  "name": "discord.kappa",
+  "version": "1.0.0",
+  "description": "a memey af discord library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev1nee/Discord.Kappa.git"
+  },
+  "keywords": [
+    "kappa",
+    "discord",
+    "lib"
+  ],
+  "author": "Dev!ne, sudomoose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev1nee/Discord.Kappa/issues"
+  },
+  "homepage": "https://github.com/Dev1nee/Discord.Kappa#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
