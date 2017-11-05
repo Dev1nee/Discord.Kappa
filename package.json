@@ -21,7 +21,5 @@
     "url": "https://github.com/Dev1nee/Discord.Kappa/issues"
   },
   "homepage": "https://github.com/Dev1nee/Discord.Kappa#readme",
-  "dependencies": {
-    "discord.js": "^11.2.1"
-  }
+  "dependencies": {}
 }
