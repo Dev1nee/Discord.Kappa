@@ -3,6 +3,7 @@
 Discord server: https://discord.gg/5cBZ7Qt
 
 ## Example
+Below is an example
 ```javascript
 Console.log(kappa(url));
 ```
